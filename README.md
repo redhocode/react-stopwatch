@@ -3,7 +3,7 @@
 ![Preview App](https://github.com/redhocode/react-stopwatch/assets/59240080/75867afb-9931-4c5a-aea7-c5523f35253a)
 
 
-![inspirasi](https://dev.to/kartikbudhraja/building-a-stopwatch-in-react-1nb3)
+- [Sumber Inspirasi](https://dev.to/kartikbudhraja/building-a-stopwatch-in-react-1nb3)
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
